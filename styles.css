@@ -34,7 +34,10 @@ html, body {
   }
   .sidebar p {
       color: black;
-      font-size: 9px;
+      font-size: 10px;
+      transform: scale(0.75);
+      display: inline-block;
+      transform-origin: left top; 
   }
   .menu {
       list-style: none;
@@ -101,9 +104,10 @@ html, body {
       left: 50%;
       transform: translate(-50%, -50%);
       color: black;
-      font-size: 9px;
-      font-weight: bold;
-      display: none;
+      font-size: 10px;
+      transform: scale(0.75);
+      display: inline-block;
+      transform-origin: left top; 
   }
 
   .gallery-item:hover .caption {
