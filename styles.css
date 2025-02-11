@@ -16,7 +16,6 @@ html, body {
     padding: 20px;
     height: 100vh;
     box-sizing: border-box;
-    border-right: solid 5px black;
     text-align: center;
     position: fixed;
     left: 0;
