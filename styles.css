@@ -27,7 +27,7 @@ html, body {
 
   .sidebar h2 {
       margin: 0;
-      font-size: 12px;
+      font-size: 10px;
       transform: scale(0.75);
       display: inline-block;
       transform-origin: left top; 
@@ -51,7 +51,6 @@ html, body {
   .menu a {
       text-decoration: none;
       color: rgb(0, 0, 0);
-      text-decoration: none;
       font-size: 10px;
       transform: scale(0.75);
       display: inline-block;
