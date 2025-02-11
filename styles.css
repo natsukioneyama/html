@@ -28,7 +28,9 @@ html, body {
   .sidebar h2 {
       margin: 0;
       font-size: 12px;
-  
+      transform: scale(0.75);
+      display: inline-block;
+      transform-origin: left top; 
   }
   .sidebar p {
       color: black;
