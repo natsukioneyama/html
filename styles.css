@@ -123,13 +123,13 @@ html, body {
       /* スマホでは1列 */
      
       .sidebar {
-        width: 50%;  /* スマホでは幅を50%に設定 */
+        width: 30%;  /* スマホでは幅を50%に設定 */
         border-right: none; /* 横線をなくす */
         border-bottom: solid 5px black; /* 下線を追加 */
     }
 
     .gallery {
-        left: 50%; /* サイドバーの横に配置（50%の位置） */
+        left: 70%; /* サイドバーの横に配置（50%の位置） */
         padding-top: 0; /* ギャラリーの上部余白を調整 */
         column-count: 1; /* 1列表示 */
     }
