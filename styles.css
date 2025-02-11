@@ -101,7 +101,7 @@ html, body {
       left: 50%;
       transform: translate(-50%, -50%);
       color: black;
-      font-size: 12px;
+      font-size: 0.5rem; /* ルートフォントの半分 */
       opacity: 0;
       transition: opacity 0.3s ease;
   }
