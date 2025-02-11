@@ -27,7 +27,7 @@ html, body {
 
   .sidebar h2 {
       margin: 0;
-      font-size: 13px;
+      font-size: 11px;
       display: block;
       margin-bottom: 5px; /* 余白を小さくする（適宜調整） */
   }
@@ -103,7 +103,6 @@ html, body {
       transform: translate(-50%, -50%);
       color: black;
       font-size: 12px;
-      font-weight: bold;
       opacity: 0;
       transition: opacity 0.3s ease;
   }
