@@ -27,17 +27,12 @@ html, body {
 
   .sidebar h2 {
       margin: 0;
-      font-size: 10px;
-      transform: scale(0.75);
-      display: inline-block;
-      transform-origin: left top; 
+      font-size: 14px;
+  
   }
   .sidebar p {
       color: black;
-      font-size: 10px;
-      transform: scale(0.75);
-      display: inline-block;
-      transform-origin: left top; 
+      font-size: 11px;
   }
   .menu {
       list-style: none;
@@ -50,11 +45,10 @@ html, body {
 
   .menu a {
       text-decoration: none;
+      font-size: 11px;
       color: rgb(0, 0, 0);
-      font-size: 10px;
-      transform: scale(0.75);
-      display: inline-block;
-      transform-origin: left top;
+      text-decoration: none;
+      font-size: 12px;
       transition: opacity 0.3s ease;
   }
 
@@ -105,7 +99,9 @@ html, body {
       left: 50%;
       transform: translate(-50%, -50%);
       color: black;
-      font-size: 10px;
+      font-size: 12px;
+      font-weight: bold;
+      display: none;
   }
 
   .gallery-item:hover .caption {
