@@ -27,13 +27,13 @@ html, body {
 
   .sidebar h2 {
       margin: 0;
-      font-size: 0.5rem;
+      font-size: 0.6rem;
       display: block;
       margin-bottom: 5px; /* 余白を小さくする（適宜調整） */
   }
   .sidebar p {
       color: black;
-      font-size: 0.5rem;
+      font-size: 0.6rem;
       margin: 3px 0;
       text-align: left;
  
@@ -50,7 +50,7 @@ html, body {
 
   .sidebar .menu a {
       text-decoration: none;
-      font-size: 0.5rem;
+      font-size: 0.6rem;
       display: block;
       color: rgb(0, 0, 0);
       transition: opacity 0.3s ease;
@@ -103,7 +103,7 @@ html, body {
       left: 50%;
       transform: translate(-50%, -50%);
       color: black;
-      font-size: 0.5rem; /* ルートフォントの半分 */
+      font-size: 0.6rem; /* ルートフォントの半分 */
       opacity: 0;
       transition: opacity 0.3s ease;
   }
