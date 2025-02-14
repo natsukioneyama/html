@@ -144,11 +144,6 @@ body, a, div {
   opacity: 1;
 }
 
-footer {
-  text-align: center;
-  color: rgb(114, 114, 114);
-}
-
 /* ----- レスポンシブ（スマホ：1列表示） ----- */
 /* レスポンシブ対応：スマホ画面の場合 */
 @media screen and (max-width: 768px) {
